@@ -26,7 +26,7 @@ It was created as part of my career comeback to showcase coding skills.
 1. Clone or download this repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mounika-dev-code/python_calculator.git
 
 2.Navigate to the folder:
 
