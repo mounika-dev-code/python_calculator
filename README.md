@@ -27,3 +27,29 @@ It was created as part of my career comeback to showcase coding skills.
 
 ```bash
 git clone <your-repo-url>
+
+2.Navigate to the folder:
+
+cd python-calculator
+
+3.Run the calculator:
+
+python calculator.py
+
+
+4.Follow the prompts:
+
+Enter the first number
+
+Enter the second number
+
+Enter an operator (+, -, *, /)
+
+View the result
+
+Example Usage
+
+Enter number1: 12
+Enter number2: 3
+Enter operator (+, -, *, /): /
+The result is: 4.0
